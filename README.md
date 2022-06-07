@@ -1,8 +1,9 @@
-👋 Hi, I’m @simonmedici
-👀 I’m interested in learning the tools to be a we developer
-🌱 I’m currently learning html, css and javascript
-💞️ I’m looking to collaborate on html and css projects
-- 📫 You can reach me on my 
+👋 Hi, I’m simon
+👀 I’m interested in learning the tools to be a web developer
+🌱 I’m currently learning html, css, javascript and the react library.
+💞️ I’m looking to collaborate on react-projects.
+- 📫 You can reach me on my email:
+simon.sebastian.medici@gmail.com
 
 <!---
 simonmedici/simonmedici is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
