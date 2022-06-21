@@ -1,5 +1,5 @@
 👋 Hi, I’m simon
-👀 I’m interested in learning the tools to be a web developer
+👀 I’m interested in learning the web-development tools.
 🌱 I’m currently learning html, css, javascript and the react library.
 💞️ I’m looking to collaborate on react-projects.
 - 📫 You can reach me on my email:
