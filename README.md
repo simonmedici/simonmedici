@@ -2,7 +2,7 @@
 
 👀 I’m interested in learning the web-development tools.
 
-🌱 I’m currently learning html, css, javascript and the react library.
+🌱 I’m currently working with html, css, javascript and the react library.
 
 💞️ I’m looking to collaborate on react-projects.
 
